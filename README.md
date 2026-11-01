@@ -26,10 +26,10 @@ I've always enjoyed building products that people use every day. My previous wor
 
 ### 🌱 What I'm learning at Columbia
 
-- **Agentic Engineering:** Building tool-using AI agents, exploring agent orchestration, multi-agent collaboration, and evaluation.
-- **Fundamentals of Large-Scale Distributed Systems:** Studying the principles behind scalable and fault-tolerant systems, including replication, consistency, and distributed coordination.
-- **Natural Language Processing:** Learning how machines process and understand human language, from foundational NLP methods to modern neural language models.
-- **Advanced Spoken Language Processing:** Exploring speech acoustics, phonetics, prosody, and speech recognition, with a particular interest in spoken language as a form of human-computer interaction.
+- **[Agentic Engineering](https://course.nickgu.me/):** Building tool-using AI agents, exploring agent orchestration, multi-agent collaboration, and evaluation.
+- **[Distributed Systems Fundamentals](https://frankeh.github.io/cu-ds1-2026-fall/):** Studying the principles behind scalable and fault-tolerant systems, including replication, consistency, and distributed coordination.
+- **[Natural Language Processing](https://www.cs.columbia.edu/~johnhew/coms4705/index.html):** Learning how machines process and understand human language, from foundational NLP methods to modern neural language models.
+- **[Advanced Spoken Language Processing](https://www.cs.columbia.edu/~julia/courses/CS6706-26/syllabus26.html):** Exploring speech acoustics, phonetics, prosody, and speech recognition, with a particular interest in spoken language as a form of human-computer interaction.
 
 ### 🛠 Tech I work with
 
